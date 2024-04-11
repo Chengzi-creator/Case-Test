@@ -13,7 +13,7 @@ public class ProjectDrag : MonoBehaviour
     
     void Start()
     {
-        // 保存原来的层级
+        // 保存原来的层级，似乎修改层级
         oldLayerID = gameObject.layer;
     }
     

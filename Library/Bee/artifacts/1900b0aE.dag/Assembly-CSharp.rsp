@@ -367,7 +367,9 @@
 -analyzer:"E:/unity/Unity Hub/2022.3.17f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/unity/Unity Hub/2022.3.17f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Projectsettings/CameraControl.cs"
+"Assets/Scripts/Projectsettings/PageChange.cs"
 "Assets/Scripts/Projectsettings/ProjectDrag.cs"
+"Assets/Scripts/Projectsettings/SmallChange.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
