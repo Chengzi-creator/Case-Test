@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1691
     height: 853
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 140
+  controlID: 129
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 53
+  controlID: 83
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -824,9 +824,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 847.15125, y: -45.852455, z: 1060.8391}
+    m_Target: {x: -39.648502, y: -62.3338, z: 1362.573}
     speed: 2
-    m_Value: {x: 847.15125, y: -45.852455, z: 1060.8391}
+    m_Value: {x: -39.648502, y: -62.3338, z: 1362.573}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -872,9 +872,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.015856288, y: 0.33185437, z: -0.005580517, w: 0.9432084}
+    m_Target: {x: 0.022807565, y: -0.009688241, z: 0.00021963006, w: 0.9997191}
     speed: 2
-    m_Value: {x: 0.015855877, y: 0.33184576, z: -0.005580372, w: 0.9431839}
+    m_Value: {x: 0.022807272, y: -0.008188439, z: 0.00018541364, w: 0.9997064}
   m_Size:
     m_Target: 687.2289
     speed: 2
@@ -3729,7 +3729,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffffa2680000
+      m_ExpandedIDs: 22fbffff72680000a4680000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3872,7 +3872,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Projectsettings
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -3880,16 +3880,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 78
   m_LastFolders:
-  - Assets/Scripts/Projectsettings
+  - Assets
   m_LastFoldersGridSize: 78
   m_LastProjectPath: E:\Work\Test\Case-Test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa6a0000
-    m_LastClickedID: 27386
-    m_ExpandedIDs: 000000001c6900001e690000206900009c6a000000ca9a3b
+    m_SelectedIDs: 1e690000
+    m_LastClickedID: 26910
+    m_ExpandedIDs: 000000001e69000020690000226900009e6a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3917,7 +3917,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001c6900001e69000020690000
+    m_ExpandedIDs: 000000001e6900002069000022690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3944,7 +3944,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300000460fffff8b500006c670000ac6a0000b46a0000e40100000602000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -3969,7 +3969,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 131.5}
     m_GridSize: 78
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 186

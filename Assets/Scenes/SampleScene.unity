@@ -525,6 +525,8 @@ MonoBehaviour:
   offset: {x: 0, y: 0, z: 0}
   movePosition: {x: 0, y: 0, z: 0}
   targetLayer: moveFile
+  target: {fileID: 0}
+  distanceHold: 0
 --- !u!114 &506754057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1065,7 +1067,7 @@ GameObject:
   - component: {fileID: 1722392188}
   - component: {fileID: 1722392187}
   - component: {fileID: 1722392186}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: File3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1102,6 +1104,8 @@ MonoBehaviour:
   offset: {x: 0, y: 0, z: 0}
   movePosition: {x: 0, y: 0, z: 0}
   targetLayer: moveFile
+  target: {fileID: 0}
+  distanceHold: 0
 --- !u!64 &1722392187
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1292,7 +1296,7 @@ GameObject:
   - component: {fileID: 2030882614}
   - component: {fileID: 2030882613}
   - component: {fileID: 2030882612}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: File2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1329,6 +1333,8 @@ MonoBehaviour:
   offset: {x: 0, y: 0, z: 0}
   movePosition: {x: 0, y: 0, z: 0}
   targetLayer: moveFile
+  target: {fileID: 0}
+  distanceHold: 0
 --- !u!64 &2030882613
 MeshCollider:
   m_ObjectHideFlags: 0
