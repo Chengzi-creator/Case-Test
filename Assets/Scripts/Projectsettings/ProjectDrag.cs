@@ -38,15 +38,15 @@ public class ProjectDrag : MonoBehaviour
         {
             isDragging = true;
             
-            // 物体当前位置与鼠标的偏移量
+            //物体当前位置与鼠标的偏移量
             offset = transform.position - Camera.main.ScreenToWorldPoint(Input.mousePosition + new Vector3(0, 0, 100));
             
             movePosition = transform.position;
             movePosition.z -= 5.0f;
-            transform.position = movePosition; // 鼠标按下时物体的Y轴增加一点
+            transform.position = movePosition; //鼠标按下时物体的Y轴增加一点
             
             
-            int targetLayerID = LayerMask.NameToLayer(targetLayer);// 修改物体的层级
+            int targetLayerID = LayerMask.NameToLayer(targetLayer);//修改物体的层级
             if (targetLayerID != -1)
             {
                 gameObject.layer = targetLayerID;

@@ -1,0 +1,4 @@
+repository "Case-Test@project-case@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
